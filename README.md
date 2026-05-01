@@ -5,6 +5,7 @@ Major: Information Systems & Security
 Semester: Spring 2026
 
 - [Data Wrangling Tutorial](Data_Wrangling_Tutorial.ipynb)
+- [Data Wrangling Exercise](Data_Wrangling_Exercise.ipynb)
  
 This repository contains coursework and projects for CIS 3902.
 ## Data Wrangling Notebooks
