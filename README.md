@@ -6,7 +6,9 @@ Semester: Spring 2026
 
 - [Data Wrangling Tutorial](Data_Wrangling_Tutorial.ipynb)
 - [Data Wrangling Exercise](Data_Wrangling_Exercise.ipynb)
- 
+- [Linear Regression Example](Linear_Regression_Example_with_the_Housing_Data%20(1).ipynb)
+
+
 This repository contains coursework and projects for CIS 3902.
 ## Data Wrangling Notebooks
 
